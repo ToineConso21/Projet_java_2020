@@ -5,6 +5,7 @@
  */
 package projet_java_2020;
 
+import java.sql.Connection;
 /**
  *
  * @author Bauti
